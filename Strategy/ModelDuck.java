@@ -8,6 +8,6 @@ public class ModelDuck extends Duck{
 
     @Override
     public void display() {
-        System.out.println("I am a mallard duck!");
+        System.out.println("I am a model duck!");
     }
 }

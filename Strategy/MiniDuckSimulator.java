@@ -7,5 +7,6 @@ public class MiniDuckSimulator {
         mallardDuck.setFlyBehaviour(new FlyWithWings());
         mallardDuck.flyBehaviour.fly();
         mallardDuck.quackBehaviour.quack();
+        mallardDuck.display();
     }
 }
